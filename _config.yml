@@ -33,22 +33,23 @@ baseurl: ""
 author:
   name: Bruno Pires
   job: Software Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  bio: "Mobile, IoT, Blockchain, cloud, hardware and embedded devices are among my biggest interests. 
+  I also have a thing for the business side."
   thumb: /images/author.jpg
   email: bruno@blastersystems.com
   url: http://brunopires.pt/
   github: https://github.com/piresbruno
   twitter: https://twitter.com/brunoacpires
-  #facebook: https://facebook.com/umdevux
-  #linkedin: https://linkedin.com/in/nandomoreirame
+  linkedin: https://linkedin.com/in/brunopires
+  email: bruno@blastersystems.com
 
 # navbar pages
 navbar:
   - slug: about
     title: About
-  - slug: icons
-    title: Icons
-  - slug: blog
-    title: Blog
+  # - slug: icons
+  #   title: Icons
+  # - slug: blog
+  #   title: Blog
 
 exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]

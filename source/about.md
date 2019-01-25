@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I’ve been passionate for new technologies since i was a teenager. 
+I got my first computer, discovered the internet, burn my first CD and found linux in '90s, saw for the first time an iBook G3 in the beggining of '00s and fall in love with them until today. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+In Secondary school i learned all about electricity and **eletronics**, and after i graduated, i pursued a degree in **Electrical Engineering** but few years into it, i changed my degree to **Computer Science**.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I could write down here what i think are all my **accomplishments**, **mistakes** (wich are way more), **soft skills**, hard skills, **leadership skills**, etc...
+But the single most important attribute that i have, and defines me as a person is the **love to learn new things every day**.
+
+I am not the kind of person that knows everything by memory (somethimes i forgot the simplest of things), but **i am a doer**, i go search for the solution and **learn** a lot in between, i am the kind of guy that has the drive to **make things happen**. 
+
+If you want to know more about me and my work, check the social media links bellow, or send me an email.
+
