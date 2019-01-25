@@ -21,7 +21,7 @@ sass:
 title: Bruno Pires
 description: "A free Jekyll theme for download"
 keywords: "software, dev, developer, engineer, ios, web, bruno, pires"
-url: http://brunopires.pt
+url: http://piresbruno.github.io
 baseurl: ""
 
 #google_analytics: UA-52446115-1
@@ -37,7 +37,7 @@ author:
   I also have a thing for the business side."
   thumb: /images/author.jpg
   email: bruno@blastersystems.com
-  url: http://blastersystems.com/
+  url:  http://piresbruno.github.io
   github: https://github.com/piresbruno
   twitter: https://twitter.com/brunoacpires
   linkedin: https://linkedin.com/in/brunopires
