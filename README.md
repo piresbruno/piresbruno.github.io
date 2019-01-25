@@ -1,6 +1,8 @@
 ### setup and deploy
 sh install.sh 
+
 bundle install
+
 bundle exec rake
 
 ### local test
