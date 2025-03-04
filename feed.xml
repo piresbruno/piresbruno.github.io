@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bruno Pires</title>
-    <description>A free Jekyll theme for download</description>
+    <description>Fractional CTO, strategic tech advisor, helping companies to scale and innovate </description>
     <link>http://piresbruno.github.io/</link>
     <atom:link href="http://piresbruno.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Fri, 25 Jan 2019 17:46:32 +0000</pubDate>
